@@ -5,9 +5,7 @@
 ### 安装依赖
 
 ```shell
-pnpm install
-# or npm install
-# or yarn install
+yarn
 ```
 
 ### 启动

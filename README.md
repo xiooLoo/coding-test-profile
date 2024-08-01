@@ -5,9 +5,7 @@
 ### Install dependencies
 
 ```shell
-pnpm install
-# or npm install
-# or yarn install
+yarn
 ```
 
 ### Start
